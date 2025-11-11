@@ -1,0 +1,17 @@
+{
+    "name": "user/objects",
+    "description": "A PHP script to display all products on the page, 2 across the page .",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "authors": [
+        {
+            "name": "Eyobel Gebre",
+            "email": "eyobel.gebre@tufts.edu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
