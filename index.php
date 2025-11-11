@@ -38,7 +38,7 @@
         }
         .product-card .price {
             font-weight: bold;
-            color: limegreen;
+            color: #ffbe0aff;
             float: right;
         }
         .product-card .description {
